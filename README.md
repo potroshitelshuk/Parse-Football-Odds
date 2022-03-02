@@ -1,2 +1,3 @@
 # Parse Football Odds
- Parse opened odds on oddsportal.com website
+
+Parse football opened odds on oddsportal.com website using **selenium** and **bs4**.
